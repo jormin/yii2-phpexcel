@@ -1,0 +1,24 @@
+{
+    "name": "jormin/yii2-phpexcel",
+    "description": "Yii2处理Excel文件， 修改自[moonlandsoft/yii2-phpexcel](https://github.com/moonlandsoft/yii2-phpexcel)。",
+    "type": "library",
+    "homepage": "https://github.com/jormin/yii2-phpexcel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jormin",
+            "email": "jorminxee@gmail.com",
+            "homepage": "https://blog.lerzen.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "moonlandsoft/yii2-phpexcel": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jormin\\Excel\\": "src"
+        }
+    }
+}
