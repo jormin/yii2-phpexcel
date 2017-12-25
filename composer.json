@@ -1,6 +1,6 @@
 {
     "name": "jormin/yii2-phpexcel",
-    "description": "Yii2处理Excel文件， 修改自[moonlandsoft/yii2-phpexcel](https://github.com/moonlandsoft/yii2-phpexcel)。",
+    "description": "Yii2处理Excel文件， 修改自[moonlandsoft/yii2-phpexcel]",
     "type": "library",
     "homepage": "https://github.com/jormin/yii2-phpexcel",
     "license": "MIT",
